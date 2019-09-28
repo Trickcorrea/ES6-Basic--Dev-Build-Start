@@ -10,7 +10,7 @@
     "start": "node dist"
   },
   "keywords": [],
-  "author": "RocketSeat - modified by Patrick Corrêa ",
+  "author": "RocketSeat - modified by Patrick Corrêa",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
